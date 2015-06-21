@@ -1,0 +1,442 @@
+False False
+(34, 333)
+(34, 148)
+(12, 66)
+(12, 75)
+(25, 102)
+(25, 140)
+34 17 25
+
+Noun dictionary ---
+% : 2 |1 |1 |0 |0 |0 |0
+anything : 4 |2 |2 |0 |0 |0 |0
+base : 6 |0 |0 |3 |3 |0 |0
+biotin : 2 |1 |1 |0 |0 |0 |0
+boat : 24 |2 |2 |2 |2 |8 |8
+bottle : 40 |7 |7 |5 |5 |8 |8
+cacl2 : 6 |3 |3 |0 |0 |0 |0
+cap : 6 |1 |1 |1 |1 |1 |1
+celcius : 2 |1 |1 |0 |0 |0 |0
+cellobiose : 4 |2 |2 |0 |0 |0 |0
+dextrose : 4 |0 |0 |0 |0 |2 |2
+filter : 2 |1 |1 |0 |0 |0 |0
+hemisulfate : 4 |0 |0 |0 |0 |2 |2
+label : 6 |1 |1 |1 |1 |1 |1
+location : 6 |1 |1 |1 |1 |1 |1
+mgso4 : 6 |3 |3 |0 |0 |0 |0
+mix : 6 |1 |1 |1 |1 |1 |1
+ml : 4 |2 |2 |0 |0 |0 |0
+peptone : 4 |0 |0 |0 |0 |2 |2
+pipette : 12 |6 |6 |0 |0 |0 |0
+pipettor : 4 |2 |2 |0 |0 |0 |0
+place : 4 |0 |0 |1 |1 |1 |1
+protocol : 4 |2 |2 |0 |0 |0 |0
+salts : 2 |1 |1 |0 |0 |0 |0
+scale : 24 |2 |2 |2 |2 |8 |8
+sink : 14 |4 |4 |1 |1 |2 |2
+solution : 10 |5 |5 |0 |0 |0 |0
+spatula : 12 |1 |1 |1 |1 |4 |4
+syringe : 4 |2 |2 |0 |0 |0 |0
+towel : 2 |1 |1 |0 |0 |0 |0
+tube : 20 |10 |10 |0 |0 |0 |0
+volume : 4 |2 |2 |0 |0 |0 |0
+water : 34 |9 |9 |3 |3 |5 |5
+yeast : 4 |0 |0 |0 |0 |2 |2
+
+Blob dictionary ---
+PIPETTE : 95 |86 |9 |0 |0 |0 |0
+SYRINGE : 54 |5 |49 |0 |0 |0 |0
+TAPE : 5 |2 |3 |0 |0 |0 |0
+ZERO : 19 |2 |2 |3 |2 |5 |5
+obj_blue_kalman.txt : 309 |65 |26 |32 |58 |48 |80
+obj_brown_kalman.txt : 44 |0 |0 |0 |0 |14 |30
+obj_brownjar_kalman.txt : 20 |14 |6 |0 |0 |0 |0
+obj_falconbox_kalman.txt : 177 |122 |55 |0 |0 |0 |0
+obj_green_kalman_hemisulfate.txt : 15 |0 |0 |0 |0 |9 |6
+obj_green_kalman_lbbase.txt : 22 |0 |0 |12 |10 |0 |0
+obj_greenbottle_kalman.txt : 25 |21 |4 |0 |0 |0 |0
+obj_jug_kalman.txt : 65 |41 |1 |5 |2 |4 |12
+obj_orangepc1_kalman.txt : 33 |0 |0 |0 |0 |24 |9
+obj_orangepc2_kalman.txt : 22 |0 |0 |0 |0 |17 |5
+obj_purplebottle_kalman.txt : 31 |26 |5 |0 |0 |0 |0
+obj_purplejar_kalman.txt : 25 |22 |3 |0 |0 |0 |0
+obj_yellow_kalman.txt : 24 |0 |0 |16 |8 |0 |0
+
+Verb dictionary ---
+add : 28 |7 |7 |1 |1 |6 |6
+aspirate : 2 |1 |1 |0 |0 |0 |0
+connect : 2 |1 |1 |0 |0 |0 |0
+discard : 4 |2 |2 |0 |0 |0 |0
+dispense : 4 |2 |2 |0 |0 |0 |0
+dry : 6 |1 |1 |1 |1 |1 |1
+expel : 2 |1 |1 |0 |0 |0 |0
+extract : 4 |0 |0 |0 |0 |2 |2
+label : 6 |1 |1 |1 |1 |1 |1
+make : 4 |2 |2 |0 |0 |0 |0
+measure : 16 |1 |1 |1 |1 |6 |6
+mix : 6 |1 |1 |1 |1 |1 |1
+place : 14 |2 |2 |1 |1 |4 |4
+pour : 2 |0 |0 |1 |1 |0 |0
+put : 6 |1 |1 |1 |1 |1 |1
+repeat : 2 |1 |1 |0 |0 |0 |0
+shake : 6 |1 |1 |1 |1 |1 |1
+start : 4 |2 |2 |0 |0 |0 |0
+stick : 4 |1 |1 |1 |1 |0 |0
+store : 2 |1 |1 |0 |0 |0 |0
+transfer : 4 |2 |2 |0 |0 |0 |0
+use : 20 |7 |7 |1 |1 |2 |2
+wait : 4 |2 |2 |0 |0 |0 |0
+wipe : 4 |2 |2 |0 |0 |0 |0
+write : 6 |1 |1 |1 |1 |1 |1
+Iteration: 0
+Current C value:
+{'1': 0.1631456850758314, '0': 0.836854314924168}
+Iteration: 1
+Current C value:
+{'1': 0.16234142593194256, '0': 0.8376585740680579}
+Iteration: 2
+Current C value:
+{'1': 0.1619282092957086, '0': 0.8380717907042913}
+Iteration: 3
+Current C value:
+{'1': 0.16183753190042177, '0': 0.8381624680995796}
+Iteration: 4
+Current C value:
+{'1': 0.16177367206709956, '0': 0.8382263279329002}
+Iteration: 5
+Current C value:
+{'1': 0.1617067078577742, '0': 0.8382932921422268}
+Iteration: 6
+Current C value:
+{'1': 0.16163567090175857, '0': 0.8383643290982411}
+Iteration: 7
+Current C value:
+{'1': 0.16155026256551094, '0': 0.8384497374344874}
+Iteration: 8
+Current C value:
+{'1': 0.16144947414296032, '0': 0.8385505258570402}
+Iteration: 9
+Current C value:
+{'1': 0.16134446182334158, '0': 0.8386555381766586}
+Iteration: 10
+Current C value:
+{'1': 0.16124430978650975, '0': 0.8387556902134908}
+Iteration: 11
+Current C value:
+{'1': 0.1611538826559892, '0': 0.8388461173440113}
+Iteration: 12
+Current C value:
+{'1': 0.16107501874060634, '0': 0.8389249812593935}
+Iteration: 13
+Current C value:
+{'1': 0.16100759340263843, '0': 0.8389924065973615}
+Iteration: 14
+Current C value:
+{'1': 0.16095053028386214, '0': 0.8390494697161383}
+Iteration: 15
+Current C value:
+{'1': 0.16090256939556996, '0': 0.8390974306044308}
+Iteration: 16
+Current C value:
+{'1': 0.16086266424471593, '0': 0.8391373357552834}
+Iteration: 17
+Current C value:
+{'1': 0.16083004003941917, '0': 0.8391699599605804}
+Iteration: 18
+Current C value:
+{'1': 0.16080404284258834, '0': 0.8391959571574127}
+Iteration: 19
+Current C value:
+{'1': 0.16078394552899125, '0': 0.8392160544710089}
+Iteration: 20
+Current C value:
+{'1': 0.16076882851193636, '0': 0.8392311714880639}
+Iteration: 21
+Current C value:
+{'1': 0.1607576245604885, '0': 0.8392423754395121}
+Iteration: 22
+Current C value:
+{'1': 0.16074930024952766, '0': 0.8392506997504712}
+Iteration: 23
+Current C value:
+{'1': 0.16074300440564604, '0': 0.8392569955943545}
+Iteration: 24
+Current C value:
+{'1': 0.16073810841456343, '0': 0.8392618915854365}
+Iteration: 25
+Current C value:
+{'1': 0.160734177767809, '0': 0.8392658222321903}
+Iteration: 26
+Current C value:
+{'1': 0.16073092349005316, '0': 0.8392690765099456}
+Iteration: 27
+Current C value:
+{'1': 0.16072815731028367, '0': 0.8392718426897161}
+Iteration: 28
+Current C value:
+{'1': 0.16072575738677136, '0': 0.839274242613229}
+Iteration: 29
+Current C value:
+{'1': 0.16072364433498196, '0': 0.8392763556650182}
+Iteration: 30
+Current C value:
+{'1': 0.1607217653144291, '0': 0.8392782346855708}
+Iteration: 31
+Current C value:
+{'1': 0.16072008384174155, '0': 0.8392799161582584}
+Iteration: 32
+Current C value:
+{'1': 0.1607185734540219, '0': 0.8392814265459786}
+Iteration: 33
+Current C value:
+{'1': 0.16071721386291032, '0': 0.8392827861370885}
+Iteration: 34
+Current C value:
+{'1': 0.16071598867026496, '0': 0.839284011329735}
+Iteration: 35
+Current C value:
+{'1': 0.16071488403605994, '0': 0.8392851159639394}
+Iteration: 36
+Current C value:
+{'1': 0.1607138879117694, '0': 0.8392861120882311}
+Iteration: 37
+Current C value:
+{'1': 0.16071298960068348, '0': 0.8392870103993159}
+Iteration: 38
+Current C value:
+{'1': 0.16071217950194894, '0': 0.8392878204980511}
+Iteration: 39
+Current C value:
+{'1': 0.1607114489546118, '0': 0.8392885510453886}
+Iteration: 40
+Current C value:
+{'1': 0.16071079013416242, '0': 0.8392892098658367}
+Iteration: 41
+Current C value:
+{'1': 0.16071019597557476, '0': 0.8392898040244254}
+Iteration: 42
+Current C value:
+{'1': 0.1607096601091678, '0': 0.8392903398908325}
+Iteration: 43
+Current C value:
+{'1': 0.1607091768026596, '0': 0.8392908231973408}
+Iteration: 44
+Current C value:
+{'1': 0.16070874090647405, '0': 0.8392912590935251}
+Iteration: 45
+Current C value:
+{'1': 0.16070834780129525, '0': 0.8392916521987062}
+Iteration: 46
+Current C value:
+{'1': 0.16070799334778374, '0': 0.8392920066522149}
+Iteration: 47
+Current C value:
+{'1': 0.16070767383869808, '0': 0.8392923261613021}
+Iteration: 48
+Current C value:
+{'1': 0.16070738595378026, '0': 0.8392926140462206}
+Iteration: 49
+Current C value:
+{'1': 0.16070712671766393, '0': 0.8392928732823354}
+Learned matching probs:
+========%==========
+('SYRINGE', 0.9844008560804001)
+('obj_blue_kalman.txt', 0.015599138622093531)
+('PIPETTE', 5.297506426948656e-09)
+========anything==========
+('obj_falconbox_kalman.txt', 0.9999999993444295)
+('PIPETTE', 6.555704815511962e-10)
+('obj_brownjar_kalman.txt', 2.621080627548794e-28)
+========base==========
+('obj_green_kalman_lbbase.txt', 0.523374309113852)
+('obj_yellow_kalman.txt', 0.3568461198503535)
+('ZERO', 0.07901022333270945)
+========biotin==========
+('SYRINGE', 0.9844008560804001)
+('obj_blue_kalman.txt', 0.015599138622093531)
+('PIPETTE', 5.297506426948656e-09)
+========boat==========
+('obj_blue_kalman.txt', 0.5257317622515363)
+('obj_green_kalman_hemisulfate.txt', 0.45296609816638866)
+('obj_falconbox_kalman.txt', 0.018041048476367668)
+========bottle==========
+('obj_blue_kalman.txt', 0.9567195087868133)
+('obj_falconbox_kalman.txt', 0.023357190428750004)
+('TAPE', 0.011036426553751642)
+========cacl2==========
+('obj_jug_kalman.txt', 0.6821469192096749)
+('obj_blue_kalman.txt', 0.3057628241652141)
+('PIPETTE', 0.012090256625049265)
+========cap==========
+('obj_blue_kalman.txt', 0.9999999999856122)
+('PIPETTE', 1.4387764010980596e-11)
+('obj_falconbox_kalman.txt', 7.178746780258409e-19)
+========celcius==========
+('obj_jug_kalman.txt', 0.6196571241066005)
+('obj_blue_kalman.txt', 0.3055552287441605)
+('obj_purplebottle_kalman.txt', 0.07478764714923902)
+========cellobiose==========
+('obj_brownjar_kalman.txt', 0.4037060574706789)
+('PIPETTE', 0.28496900550578674)
+('obj_falconbox_kalman.txt', 0.12134559207555712)
+========dextrose==========
+('obj_brown_kalman.txt', 0.7158588868349163)
+('obj_blue_kalman.txt', 0.10253996879064221)
+('obj_orangepc2_kalman.txt', 0.06516609660311667)
+========filter==========
+('obj_purplejar_kalman.txt', 0.670855111446812)
+('PIPETTE', 0.2007659640989003)
+('obj_greenbottle_kalman.txt', 0.0663044224312734)
+========hemisulfate==========
+('obj_orangepc1_kalman.txt', 0.4770557773130068)
+('obj_orangepc2_kalman.txt', 0.27883776398731974)
+('obj_green_kalman_hemisulfate.txt', 0.19503971516971774)
+========label==========
+('obj_blue_kalman.txt', 0.8471037780604379)
+('TAPE', 0.15289622193956165)
+('obj_falconbox_kalman.txt', 4.0995610270097806e-16)
+========location==========
+('obj_blue_kalman.txt', 0.5248022253542576)
+('obj_falconbox_kalman.txt', 0.4505168131201977)
+('SYRINGE', 0.013505328046523412)
+========mgso4==========
+('obj_greenbottle_kalman.txt', 0.6902267328540423)
+('ZERO', 0.13147175863628896)
+('obj_brownjar_kalman.txt', 0.09860388897604462)
+========mix==========
+('obj_jug_kalman.txt', 0.6360613611049255)
+('obj_yellow_kalman.txt', 0.2257559431020102)
+('obj_falconbox_kalman.txt', 0.13818269579306428)
+========ml==========
+('obj_falconbox_kalman.txt', 0.6616167268717867)
+('obj_purplejar_kalman.txt', 0.2885261580912979)
+('PIPETTE', 0.049857095291576836)
+========peptone==========
+('obj_orangepc1_kalman.txt', 0.8654761233560678)
+('obj_orangepc2_kalman.txt', 0.1345238766439321)
+('obj_brown_kalman.txt', 6.293239082960602e-19)
+========pipette==========
+('PIPETTE', 0.6983763382378719)
+('obj_falconbox_kalman.txt', 0.11232187382681427)
+('obj_purplebottle_kalman.txt', 0.09872608576116809)
+========pipettor==========
+('obj_purplebottle_kalman.txt', 0.7184959988426968)
+('obj_falconbox_kalman.txt', 0.23790806220071192)
+('obj_jug_kalman.txt', 0.042137447717167806)
+========place==========
+('obj_blue_kalman.txt', 1.0)
+('obj_greenbottle_kalman.txt', 1e-40)
+('obj_purplejar_kalman.txt', 1e-40)
+========protocol==========
+('obj_falconbox_kalman.txt', 0.9999999993444295)
+('PIPETTE', 6.555704815511962e-10)
+('obj_brownjar_kalman.txt', 2.621080627548794e-28)
+========salts==========
+('PIPETTE', 0.8988186233691421)
+('obj_purplejar_kalman.txt', 0.10118137663085788)
+('obj_blue_kalman.txt', 5.124832275025743e-38)
+========scale==========
+('obj_blue_kalman.txt', 0.9523218003657327)
+('obj_falconbox_kalman.txt', 0.04647898238067309)
+('ZERO', 0.0009997453671199592)
+========sink==========
+('obj_jug_kalman.txt', 0.5581742683406351)
+('obj_falconbox_kalman.txt', 0.31890566996554437)
+('obj_purplejar_kalman.txt', 0.06765507741851791)
+========solution==========
+('obj_falconbox_kalman.txt', 0.6942762204012696)
+('PIPETTE', 0.30572377959873015)
+('obj_purplejar_kalman.txt', 2.3645728244146657e-16)
+========spatula==========
+('ZERO', 0.616545327936774)
+('obj_blue_kalman.txt', 0.38345126108653177)
+('obj_brown_kalman.txt', 3.379615741626095e-06)
+========syringe==========
+('obj_purplejar_kalman.txt', 0.4904133731315784)
+('obj_purplebottle_kalman.txt', 0.2750099581063213)
+('PIPETTE', 0.20791994936982086)
+========towel==========
+('obj_falconbox_kalman.txt', 0.9479934414473203)
+('SYRINGE', 0.028418389813307247)
+('obj_purplebottle_kalman.txt', 0.023516142883941136)
+========tube==========
+('obj_falconbox_kalman.txt', 0.6019538792731532)
+('PIPETTE', 0.1961126131794745)
+('SYRINGE', 0.13333294839174403)
+========volume==========
+('obj_falconbox_kalman.txt', 0.6616167268717867)
+('obj_purplejar_kalman.txt', 0.2885261580912979)
+('PIPETTE', 0.049857095291576836)
+========water==========
+('obj_blue_kalman.txt', 0.9580511435165937)
+('obj_falconbox_kalman.txt', 0.041948856269114154)
+('obj_jug_kalman.txt', 2.0133464388747269e-10)
+========yeast==========
+('obj_orangepc2_kalman.txt', 0.40016597847711954)
+('obj_blue_kalman.txt', 0.26724174709089493)
+('obj_orangepc1_kalman.txt', 0.18192509007958627)
+Learned transition probs:
+{'1': 0.16070712671766393, '0': 0.8392928732823354}
+Accuracy: 0.357357
+Accuracy: 0.337838
+Accuracy: 0.757576
+Accuracy: 0.546667
+Accuracy: 0.823529
+Accuracy: 0.700000
+Avg accuracy HMM: 0.587161
+('obj_greenbottle_kalman.txt', 'mgso4')
+('obj_purplejar_kalman.txt', 'filter')
+('PIPETTE', 'pipette')
+('obj_blue_kalman.txt', 'bottle')
+('obj_falconbox_kalman.txt', 'towel')
+('ZERO', 'mgso4')
+('obj_purplebottle_kalman.txt', 'pipettor')
+('TAPE', 'label')
+('SYRINGE', 'tube')
+('obj_brownjar_kalman.txt', 'cellobiose')
+('obj_jug_kalman.txt', 'cacl2')
+==========
+('obj_greenbottle_kalman.txt', 'mgso4')
+('obj_purplejar_kalman.txt', 'filter')
+('PIPETTE', 'pipette')
+('obj_blue_kalman.txt', 'bottle')
+('obj_falconbox_kalman.txt', 'anything')
+('ZERO', 'mgso4')
+('obj_purplebottle_kalman.txt', 'pipettor')
+('TAPE', 'label')
+('SYRINGE', 'biotin')
+('obj_brownjar_kalman.txt', 'cellobiose')
+('obj_jug_kalman.txt', 'cellobiose')
+==========
+('obj_blue_kalman.txt', 'bottle')
+('ZERO', 'base')
+('obj_jug_kalman.txt', 'mix')
+('obj_green_kalman_lbbase.txt', 'base')
+('obj_yellow_kalman.txt', 'base')
+==========
+('obj_blue_kalman.txt', 'bottle')
+('ZERO', 'spatula')
+('obj_jug_kalman.txt', 'mix')
+('obj_green_kalman_lbbase.txt', 'base')
+('obj_yellow_kalman.txt', 'base')
+==========
+('obj_blue_kalman.txt', 'water')
+('obj_orangepc2_kalman.txt', 'hemisulfate')
+('ZERO', 'spatula')
+('obj_brown_kalman.txt', 'dextrose')
+('obj_orangepc1_kalman.txt', 'peptone')
+('obj_green_kalman_hemisulfate.txt', 'boat')
+('obj_jug_kalman.txt', 'mix')
+==========
+('obj_blue_kalman.txt', 'water')
+('obj_orangepc2_kalman.txt', 'yeast')
+('ZERO', 'spatula')
+('obj_brown_kalman.txt', 'dextrose')
+('obj_orangepc1_kalman.txt', 'peptone')
+('obj_green_kalman_hemisulfate.txt', 'boat')
+('obj_jug_kalman.txt', 'mix')
+==========
+---------
+FLAG HMM2: False
+Elapsed time: 65.1631469727 secs
+Average acc: 0.587161

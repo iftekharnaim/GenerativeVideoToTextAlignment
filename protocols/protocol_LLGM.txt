@@ -1,0 +1,16 @@
+Step Label the bottle
+    Write LB Growth Media on a label, stick it to the bottle.
+
+Step Measure 20 g of LB Broth Base
+    Place the plastic boat on the scale.
+    Zero the scale.
+    Using the spatula, measure 20 g of LB Broth Base into the plastic boat.
+
+Step Pour the LB Broth Base into the 1000 mL bottle.
+
+Step Add 800 mL of DI water.
+    Use the DI water near the sink.
+
+Step Mix.
+    Put a cap on the bottle and shake to mix the dry ingredients with the water.
+    Dry off the bottle with a paper towel. Place the bottle in location b1.300.

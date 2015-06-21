@@ -1,0 +1,111 @@
+ID start end token
+f0t0e0 2.73 5.55 bottle,1
+f0t0e1 5.55 17.43 label,1
+f0t0e2 17.43 19.17 label,bottle,1
+f0t0e3 19.17 19.5 
+f0t0e4 19.5 21.65 pen,1
+f0t0e5 21.65 31 pen,bottle,label,1
+f0t0e6 31 32.23 pen,bottle,1
+f0t0e7 32.23 36.3 pen,1
+f0t0e8 36.3 39.28 
+f0t0e9 39.28 41.08 tube,2
+f0t0e10 41.08 42.1 tube,bottle,2
+f0t0e11 42.1 43.42 tube,2
+f0t0e12 43.42 45.17 tube,water,2
+f0t0e13 45.17 49.87 tube,2
+f0t0e14 49.87 51.92 tube,pipette1,2
+f0t0e15 51.92 55.9 tube,pipette1,water,2
+f0t0e16 55.9 57.07 tube,pipette1,2
+f0t0e17 57.07 60.4 tube,pipette1,water,2
+f0t0e18 60.4 64.13 tube,pipette1,2
+f0t0e19 64.13 68.25 tube,2
+f0t0e20 68.25 73.23 water,2
+f0t0e21 73.23 77.97 
+f0t0e22 77.97 79.9 pipette2,3
+f0t0e23 79.9 81.63 pipette2,bottle,3
+f0t0e24 81.63 83.38 pipette2,tube,3
+f0t0e25 83.38 90.42 pipette2,cacl2,3
+f0t0e26 90.42 94.73 pipette2,tube,3
+f0t0e27 94.73 98.73 pipette2,3
+f0t0e28 98.73 115.7 pipette2,3
+f0t0e29 115.7 119.68 pipette2,cacl2,3
+f0t0e30 119.68 122.67 pipette2,tube,3
+f0t0e31 122.67 125.75 pipette2,3
+f0t0e32 125.75 130.73 
+f0t0e33 130.73 136.9 tube,3
+f0t0e34 136.9 138.55 
+f0t0e35 138.55 143.53 tube,3
+f0t0e36 143.53 147.27 cacl2,3
+f0t0e37 147.27 156.43 mgso4,4
+f0t0e38 156.43 157.92 pipette1,4
+f0t0e39 157.92 162.17 pipette1,mgso4,4
+f0t0e40 162.17 165.07 pipette1,tube,4
+f0t0e41 165.07 169.08 pipette1,4
+f0t0e42 169.08 182.22 mgso4,4
+f0t0e43 182.22 184.38 
+f0t0e44 184.4 187.4 boat,5
+f0t0e45 187.4 188.38 scale,5
+f0t0e46 188.38 192.88 
+f0t0e47 192.88 193.7 
+f0t0e48 193.72 195.7 scale,5
+f0t0e49 195.7 197.85 spatula,5
+f0t0e50 197.85 206.83 spatula,cellobiose,5
+f0t0e51 206.83 208.83 spatula,cellobiose,boat,5
+f0t0e52 208.83 215.82 spatula,cellobiose,5
+f0t0e53 215.82 216.57 spatula,5
+f0t0e54 216.57 220.22 
+f0t0e55 220.22 228.18 boat,5
+f0t0e56 228.18 235.17 boat,tube,5
+f0t0e57 235.17 238.17 boat,5
+f0t0e58 238.17 241.65 
+f0t0e59 241.65 246.65 biotin,6
+f0t0e60 246.65 247.97 biotin,6
+f0t0e61 247.97 251.28 pipette1,6
+f0t0e62 251.28 254.3 pipette1,biotin,6
+f0t0e63 254.3 257.3 pipette1,tube,6
+f0t0e64 257.3 268.27 biotin,6
+f0t0e65 268.27 272.43 water,7
+f0t0e66 272.43 274.17 tube,7
+f0t0e67 274.18 297.28 tube,water,7
+f0t0e68 297.28 312.27 tube,8
+f0t0e69 312.27 315 
+f0t0e70 315 322.95 bottle,9
+f0t0e71 322.95 328.95 water,9
+f0t0e72 328.95 336.93 water,bottle,9
+f0t0e73 336.93 340.92 water,9
+f0t0e74 340.92 343.98 
+f0t0e75 343.98 350.15 pipette1,10
+f0t0e76 350.15 353.98 syringe,10
+f0t0e77 353.98 355.32 syringe,bottle,10
+f0t0e78 355.32 373.78 syringe,tube,10
+f0t0e79 373.78 378.77 syringe,bottle,10
+f0t0e80 378.77 389.75 syringe,tube,10
+f0t0e81 389.75 392.73 syringe,bottle,10
+f0t0e82 392.73 397.9 syringe,tube,10
+f0t0e83 397.9 401.05 syringe,bottle,10
+f0t0e84 401.05 404.03 syringe,10
+f0t0e85 404.05 414.88 tube,10
+f0t0e86 414.88 423.87 salt,11
+f0t0e87 423.87 427.6 salt,pipette1,11
+f0t0e88 427.6 430.6 bottle,pipette1,11
+f0t0e89 430.6 432.58 salt,pipette1,11
+f0t0e90 432.58 434.58 bottle,pipette1,11
+f0t0e91 434.58 434.92 salt,pipette1,11
+f0t0e92 434.92 435.67 pipette1,11
+f0t0e93 435.67 437.65 pipette1,bottle,11
+f0t0e94 437.65 441.65 pipette1,salt,11
+f0t0e95 441.65 443.63 pipette1,bottle,11
+f0t0e96 443.63 444.35 pipette1,salt,11
+f0t0e97 444.35 446.33 pipette1,bottle,11
+f0t0e98 446.33 448.33 pipette1,salt,11
+f0t0e99 448.33 450.33 pipette1,bottle,11
+f0t0e100 450.33 451.32 pipette1,salt,11
+f0t0e101 451.32 453.32 pipette1,bottle,11
+f0t0e102 453.32 455.32 pipette1,salt,11
+f0t0e103 455.32 459.3 pipette1,11
+f0t0e104 459.3 465.62 salt,11
+f0t0e105 465.62 471.35 water,12
+f0t0e106 471.35 477.82 water,bottle,12
+f0t0e107 477.82 482.82 water,12
+f0t0e108 482.82 484.92 
+f0t0e109 484.92 490.13 bottle,12

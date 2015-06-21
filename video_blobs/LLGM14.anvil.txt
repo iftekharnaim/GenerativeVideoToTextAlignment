@@ -1,0 +1,24 @@
+ID start end token
+f0t0e0 6.47 8.2 bottle,1
+f0t0e1 8.2 10.67 bottle,label,1
+f0t0e2 10.67 12.48 label,1
+f0t0e3 12.48 20.35 label,bottle,1
+f0t0e4 20.35 22.42 pen,bottle,1
+f0t0e5 22.42 23.57 pen,1
+f0t0e6 23.57 28.28 pen,bottle,1
+f0t0e7 28.28 31.85 pen,1
+f0t0e8 32.58 34.58 bottle,1
+f0t0e9 34.58 35.73 scale,2
+f0t0e10 35.73 38.58 
+f0t0e11 38.58 40.58 scale,2
+f0t0e12 40.58 42.9 boat,2
+f0t0e13 42.9 48.48 base,2
+f0t0e14 48.48 58.95 base,spatula,2
+f0t0e15 58.95 65.93 base,2
+f0t0e16 65.93 80.9 boat,bottle,3
+f0t0e17 83.8 88.95 water,4
+f0t0e18 88.95 96.68 water,bottle,4
+f0t0e19 96.68 104.67 water,4
+f0t0e20 104.67 108.15 
+f0t0e21 108.15 118.12 bottle,5
+f0t0e22 118.12 127.33 bottle,towel,5

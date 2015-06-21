@@ -1,0 +1,46 @@
+Step Label the bottle
+    Write Cellobiose M9 Media on a label, stick it to the bottle.
+
+Step Add 25 mL of DI water to a 50 mL Falcon tube.
+    Use the DI water near the sink.
+
+Step Transfer 100 uL of Calcium Chloride to the 50 mL Falcon tube
+    Use the serological pipettor and a 2 mL serological pipette.
+    After aspirating, be sure to wipe as much Calcium Chloride off of the outside of the pipette as possible.
+    Dispense as much Calcium Chloride as possible, then wait 30 seconds, and dispense whatever Calcium Chloride drains to the bottom of the pipette. (?)
+    - If anything participated out of the solution, you'll need to discard whatever was made in this protocol, make new CaCl2 1M solution, and start this protocol over.  
+
+Step Transfer 1 mL of Magnesium Sulfate to the 50 mL Falcon tube
+    Use the serological pipettor and a 2 mL serological pipette.
+    After aspirating, be sure to wipe as much Magnesium Sulfate off of the outside of the pipette as possible.
+    Dispense as much Magnesium Sulfate as possible, then wait 30 seconds, and dispense whatever Magnesium Sulfate drains to the bottom of the pipette. (?)
+    - If anything participated out of the solution, you'll need to discard whatever was made in this protocol, make new MgS04 1M solution, and start this protocol over.
+
+Step Measure 2 g of Cellobiose
+    - Place the plastic boat on the scale.
+    - Zero the scale.
+    - Using the spatula, measure 2 g of Cellobiose into the plastic boat and add it to the tube.
+
+Step Add 10 mL of 1% Biotin 100x (0.01% to the 50 mL Falcon tube
+
+Step Add DI water to the Falcon tube until the volume is ~50 mL.
+    Use the DI water near the sink.
+
+Step Mix.
+    Put a cap on the tube and shake to mix the dry ingredients with the water.
+    Dry off the tube with a paper towel. Place the tube in location TBD.
+
+Step Add 500 mL of DI water to the labled 1000 mL bottle.
+    Use the DI water near the sink.
+
+Step Use a 30 mL Syringe and aspirate as much solution as possible from the 50 mL Falcon tube.
+    - Connect a Syringe Filter to the end of the Syringe.
+    - Expel the solution into the labled 1000 mL bottle.
+    - Repeat until all of the original solution within the 50 mL Falcon tube is in the 1000 mL bottle.
+
+Step Add 200 mL of sterile M9 Salts 5x to the 1000 mL bottle.
+
+Step Add DI water to the 1000 mL bottle until the total volume is ~1000 mL.
+    Use the DI water near the sink.
+
+Step Store at 4C.
