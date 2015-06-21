@@ -4,7 +4,7 @@ This directory contains the source codes and datasets for unsupervised alignment
 Data:
 =====
 
-There are 3 directories: protocols, video_blobs, and vision_3d_coord.
+The directory "dataset_aaai14" contains the datasets used for our AAAI-14 paper. There are 3 directories: protocols, video_blobs, and vision_3d_coord.
 
 Directory “protocols” - contains the raw text and parses for 3 wetlab protocols: CELL, LLGM, and YPAD.
 
@@ -58,6 +58,14 @@ On Vision data:
 > python latent_hmm_multivideos.py True False
 
 
+NOTE:
+======
+
+We extended the generative alignment model using discriminative Latent CRF model in [2]. Please note that the code in this repository does NOT include the source codes for the discriminative models. We’ll soon release that source codes for the discriminative models separately.
+
+
 References:
 ==========
 [1] Unsupervised Alignment of Natural Language Instructions with Video Segments , Iftekhar Naim, Young Chol Song, Qiguang Liu, Henry Kautz, Jiebo Luo, Daniel Gildea, in Proceedings of AAAI 2014.
+
+[2] Discriminative Unsupervised Alignment of Natural Language Instructions with Corresponding Video Segments , Iftekhar Naim, Young C. Song, Qiguang Liu, Liang Huang, Henry Kautz, Jiebo Luo and Daniel Gildea, in Proceedings of NAACL, 2015.
